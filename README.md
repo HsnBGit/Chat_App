@@ -1,4 +1,4 @@
-# Chat Ap
+# Chat App
 
 This is a Python-based chat application that supports real-time messaging via XML-RPC. The project includes both a command-line interface and a modern graphical interface built using `customtkinter`.
 
