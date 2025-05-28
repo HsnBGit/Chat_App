@@ -18,15 +18,17 @@ This is a Python-based chat application that supports real-time messaging via XM
 
 ### GUI - Chat Room
 
-![Chat Room Screenshot](v![image](https://github.com/user-attachments/assets/1043ffe3-ad83-46d0-b80d-362c3bd30f5e))
+![Chat Room Screenshot](./ChatRoom.png)
+
 
 ### GUI - User Login
 
-![User Login Screenshot](![image](https://github.com/user-attachments/assets/2ed33525-95de-471d-a9c4-17a8610f8a68))
+![Login Page](./Login.png)
 
 ### CLI  - Options
 
-![Settings Screenshot](v![image](https://github.com/user-attachments/assets/3aff5fe9-33f0-497b-a78d-c2c88216eb6d))
+![Settings Screenshot](./CLI.png)
+
 
 ---
 
