@@ -18,15 +18,15 @@ This is a Python-based chat application that supports real-time messaging via XM
 
 ### GUI - Chat Room
 
-![Chat Room Screenshot](./b73685da-a31d-465c-844d-75976461819a.png)
+![Chat Room Screenshot](v![image](https://github.com/user-attachments/assets/1043ffe3-ad83-46d0-b80d-362c3bd30f5e))
 
 ### GUI - User Login
 
-![User Login Screenshot](./a4e61ee8-80f6-40f4-ba91-a5d8d4d45df1.png)
+![User Login Screenshot](![image](https://github.com/user-attachments/assets/2ed33525-95de-471d-a9c4-17a8610f8a68))
 
-### GUI - Settings Panel
+### CLI  - Options
 
-![Settings Screenshot](./be9b661c-8eb9-49f1-ac3d-30e6c086e41e.png)
+![Settings Screenshot](v![image](https://github.com/user-attachments/assets/3aff5fe9-33f0-497b-a78d-c2c88216eb6d))
 
 ---
 
@@ -88,14 +88,6 @@ chat_app/
 * `xmlrpc.server` and `xmlrpc.client`
 * `customtkinter` for GUI
 * Threading for concurrent message polling
-
----
-
-## Contributors
-
-* Hassan
-* Abdullah
-* Mouth
 
 ---
 
